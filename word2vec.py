@@ -8,7 +8,7 @@ Architecture:
                + sum_k log-sigmoid(−v_neg_k · v_center)
   - Updates via SGD with analytically derived gradients
 
-Author: <your name>
+Author: Milica Stanojlovic
 """
 
 import numpy as np
